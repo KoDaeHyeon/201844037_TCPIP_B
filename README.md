@@ -3,7 +3,7 @@
 201844037_B_고대현
 
 ## 6주차 실습화면 (2022-04-07)
-교재 : 5주차_1-네트워크실습
+교재 : 5주차_1-네트워크실습\
 TCP_client
 <img width="" height="" src=./pic/6주차TCP_Client.png><img>
 UDP 통신
